@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 # Flux version 2
 hello
+=======
+# OBSIDIAN 22.2..2.2
+
+>>>>>>> ee11151dfba71f3f9cc66fb5a029ea5bf7cb885f
 
 hellloooooooooooooooooooooooooooooooooo
+hello rafay
 [![release](https://img.shields.io/github/release/fluxcd/flux2/all.svg)](https://github.com/fluxcd/flux2/releases)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4782/badge)](https://bestpractices.coreinfrastructure.org/projects/4782)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/fluxcd/flux2/badge)](https://scorecard.dev/viewer/?uri=github.com/fluxcd/flux2)
